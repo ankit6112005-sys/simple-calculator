@@ -1,4 +1,4 @@
-# simple-calculator# To create a simple calculator #
+# To create a simple calculator #
 def addition(x,y):
     return(x+y)
 def substract(x,y):
